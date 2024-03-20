@@ -1,6 +1,6 @@
 # uog_daily
 
-A new Flutter project.
+UoG Daily News is an essential mobile application tailored for the University of Gondar community. It serves as a centralized platform providing timely updates, event notifications, and important announcements pertinent to students, faculty, and staff. With a user-friendly interface, this app ensures seamless access to the latest campus happenings, academic information, and other relevant news, fostering enhanced communication and engagement within the university community.
 
 ## Getting Started
 
