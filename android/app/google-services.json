@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179847578417",
+    "firebase_url": "https://uog-daily-34dfd-default-rtdb.firebaseio.com",
+    "project_id": "uog-daily-34dfd",
+    "storage_bucket": "uog-daily-34dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179847578417:android:8672a63a9dd33ab5db6610",
+        "android_client_info": {
+          "package_name": "com.mikael.uog_daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179847578417-smh5p9shc48v76kpqqnd8l151jtmvd0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaRaHRuZW2WdHx-0vek_AGoc6-CwBBGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179847578417-smh5p9shc48v76kpqqnd8l151jtmvd0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
